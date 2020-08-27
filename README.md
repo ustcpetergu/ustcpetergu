@@ -1,4 +1,8 @@
-### Hi there 👋
+### You see here a physics student named Peter Gu
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ustcpetergu&count_private=true&show_icons=true)
+
+#### Check out my [homepage](https://www.ustcpetergu.com) and [blog](https://www.ustcpetergu.com/MyBlog) !
 
 <!--
 **ustcpetergu/ustcpetergu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
