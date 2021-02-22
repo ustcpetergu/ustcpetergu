@@ -1,4 +1,4 @@
-### You see here a physics student named Peter Gu
+### You see here a physics student goofing around. 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ustcpetergu&count_private=true&show_icons=true)
 
